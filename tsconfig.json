@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "module": "esnext",
+    "noEmit": true,
+    "allowImportingTsExtensions": true
+  },
+  "include": ["nativewind-env.d.ts", "App.tsx", "src/**/*.ts", "src/**/*.tsx"]
+}

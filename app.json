@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Muscle Up",
+    "slug": "muscle-up",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.muscleup.app"
+    },
+    "android": {
+      "package": "com.muscleup.app"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Muscle Up to save progress photos in your private on-device vault.",
+          "cameraPermission": "Allow Muscle Up to take private progress photos."
+        }
+      ],
+      "expo-secure-store"
+    ]
+  }
+}

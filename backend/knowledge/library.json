@@ -1,0 +1,22 @@
+{
+  "exercises": [
+    {"name":"Barbell Bench Press","muscle":"chest","pattern":"horizontal_push","equipment":["barbell","bench"]},
+    {"name":"Push-Up","muscle":"chest","pattern":"horizontal_push","equipment":["bodyweight"]},
+    {"name":"Dumbbell Floor Press","muscle":"chest","pattern":"horizontal_push","equipment":["dumbbell"]},
+    {"name":"Dumbbell Row","muscle":"back","pattern":"horizontal_pull","equipment":["dumbbell"]},
+    {"name":"Pull-Up","muscle":"back","pattern":"vertical_pull","equipment":["pullup_bar"]},
+    {"name":"Barbell Row","muscle":"back","pattern":"horizontal_pull","equipment":["barbell"]},
+    {"name":"Lat Pulldown","muscle":"back","pattern":"vertical_pull","equipment":["cable_machine"]},
+    {"name":"Back Squat","muscle":"quads","pattern":"squat","equipment":["barbell","rack"]},
+    {"name":"Goblet Squat","muscle":"quads","pattern":"squat","equipment":["dumbbell"]},
+    {"name":"Split Squat","muscle":"quads","pattern":"single_leg_squat","equipment":["bodyweight"]},
+    {"name":"Romanian Deadlift","muscle":"hamstrings","pattern":"hinge","equipment":["barbell"]},
+    {"name":"Hip Thrust","muscle":"glutes","pattern":"hip_extension","equipment":["bodyweight"]},
+    {"name":"Overhead Press","muscle":"shoulders","pattern":"vertical_push","equipment":["barbell"]},
+    {"name":"Lateral Raise","muscle":"shoulders","pattern":"shoulder_abduction","equipment":["dumbbell"]},
+    {"name":"Biceps Curl","muscle":"arms","pattern":"elbow_flexion","equipment":["dumbbell"]},
+    {"name":"Triceps Extension","muscle":"arms","pattern":"elbow_extension","equipment":["dumbbell"]},
+    {"name":"Plank","muscle":"core","pattern":"core","equipment":["bodyweight"]},
+    {"name":"Dead Bug","muscle":"core","pattern":"core","equipment":["bodyweight"]}
+  ]
+}

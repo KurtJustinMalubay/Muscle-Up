@@ -1,0 +1,4 @@
+{"contraindications":{"knee":{"avoid":["Back Squat"],"alternatives":["Goblet Squat"]},
+ "shoulder":{"avoid":["Overhead Press"],"alternatives":["Push-Up"]},
+ "lower_back":{"avoid":["Romanian Deadlift"],"alternatives":["Plank"]}},
+ "diet_flags":{"min_age":18,"min_bmi":18.5}}

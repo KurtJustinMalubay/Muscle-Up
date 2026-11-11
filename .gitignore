@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Expo and React Native generated files
+.expo/
+dist/
+web-build/
+*.jsbundle
+
+# Android build output and local signing/configuration
+android/.gradle/
+android/.cxx/
+android/build/
+android/app/build/
+android/local.properties
+android/app/debug.keystore
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
